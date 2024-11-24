@@ -5,6 +5,7 @@
 #
 
 [<img src='https://img.shields.io/badge/rolandboss1234-%235865F2?style=flat&logo=discord&logoColor=%235865F2&label=Contact%20me&labelColor=lightblue'/>](https://discord.com/users/1230163114734129212)
+[<img src='https://img.shields.io/badge/rolandboss1234_developments-%235865F2?style=flat&logo=discord&logoColor=%235865F2&label=Join%20my%20server&labelColor=lightblue'/>](https://discord.gg/djzfvn8H5d)
 [<img src='https://img.shields.io/badge/Contact%20me-szaborolandboss1234-lightblue?style=flat&logo=gmail&logoColor=white'/>](mailto:szaborolandboss1234@gmail.com)
 ![](https://komarev.com/ghpvc/?username=rolandboss1234&color=grey&style=flat&label=Views)
 
