@@ -6,6 +6,9 @@
 [<img src='https://img.shields.io/badge/Contact%20me-szaborolandboss1234-lightblue?style=flat&logo=gmail&logoColor=white'/>](mailto:szaborolandboss1234@gmail.com)
 ![](https://komarev.com/ghpvc/?username=rolandboss1234&color=grey&style=flat&label=Views)
 
+[![](https://skillicons.dev/icons?i=java,php,javascript,python,nodejs,mysql,sqlite,html,css,nginx,gradle,maven,idea,discordjs,github)](https://github.com/rolandboss1234)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rolandboss1234&theme=gruvbox)](https://github.com/rolandboss1234)
 
 <!---
 rolandboss1234/rolandboss1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
